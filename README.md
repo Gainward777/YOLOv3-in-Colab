@@ -1,7 +1,7 @@
 # YOLOv3-in-Colab
 YOLOv3 Darknet implementation in Colab </br>
 <br>
-![](YOLOv3.png)
+![](YOLOv3.jpg)
 </br>
 <br>
 <a href="https://drive.google.com/file/d/1hCTJDJLEzWrL-Y7gUm8k1kui-xtyJt5M/view">Download weights from gdrive</a>
